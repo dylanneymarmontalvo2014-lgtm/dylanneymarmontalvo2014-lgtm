@@ -13,6 +13,7 @@ Final PNG exports live in this folder. Standalone Canva-importable SVG files liv
 | 07 — GitHub Stats | `07-github-stats.png` | 900 × 300 |
 | 08 — Top Languages | `08-top-languages.png` | 900 × 300 |
 | 09 — Contribution Graph | `09-contribution-graph.png` | 900 × 300 |
+| 10 — Social & Contact | `10-social-contact.png` | 900 × 300 |
 
 ## Design system
 
@@ -21,6 +22,6 @@ Final PNG exports live in this folder. Standalone Canva-importable SVG files liv
 - Technical type: Noto Sans Mono
 - Shared language: thin technical grid, one-pixel frames, restrained red signals, dark UI modules, generous negative space
 
-Import the nine self-contained SVG files from `canva/` into one Canva project and keep the page names above. The SVGs preserve vector text, frames, dividers, and accents, with each technical plate embedded inside its file so no external image link is required.
+Import the ten self-contained SVG files from `canva/` into one Canva project and keep the page names above. The SVGs preserve vector text, frames, dividers, and accents, with each technical plate embedded inside its file so no external image link is required.
 
 The activity banners `07`–`09` are fully vector-based and use a public-data snapshot from GitHub. Run `source/generate-github-activity.py` to refresh repositories, followers, stars, forks, language bytes, and the last-year contribution calendar before re-exporting the PNGs.

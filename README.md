@@ -152,9 +152,13 @@ Hardware
 
 ## 🌐 Find Me
 
-[PLACEHOLDER — SOCIAL LINKS / CONTACT BANNER]
+![Contact Ing.Dylan on GitHub, Discord or email](assets/banners/ing-dylan/10-social-contact.png)
 
 **GitHub:** `@dylanneymarmontalvo2014-lgtm`
+
+**Discord:** `dylanneymar25`
+
+**Email:** `dylanneymarmontalvo2014@gmail.com`
 
 ---
 

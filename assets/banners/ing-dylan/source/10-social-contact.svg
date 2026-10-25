@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#B8B8B8" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="300" fill="#080808"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+  <rect x="30" y="28" width="840" height="244" fill="none" stroke="#B8B8B8" stroke-opacity="0.16"/>
+  <rect x="60" y="58" width="9" height="9" fill="#E50914"/>
+  <text x="60" y="126" fill="#FFFFFF" font-family="DejaVu Sans, sans-serif" font-size="36" font-weight="700" letter-spacing="-1">Let's Connect</text>
+  <rect x="60" y="146" width="56" height="3" fill="#E50914"/>
+  <text x="60" y="181" fill="#FFFFFF" font-family="DejaVu Sans, sans-serif" font-size="15">Find me across the web.</text>
+  <text x="60" y="224" fill="#B8B8B8" font-family="Noto Sans Mono, monospace" font-size="10" letter-spacing="1.7">GITHUB • DISCORD • EMAIL</text>
+
+  <rect x="356" y="48" width="484" height="58" fill="#111111" stroke="#B8B8B8" stroke-opacity="0.18"/>
+  <rect x="356" y="48" width="4" height="58" fill="#E50914"/>
+  <rect x="374" y="61" width="32" height="32" fill="none" stroke="#B8B8B8" stroke-opacity="0.3"/>
+  <text x="390" y="83" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="14" text-anchor="middle">&lt;/&gt;</text>
+  <text x="424" y="70" fill="#B8B8B8" font-family="Noto Sans Mono, monospace" font-size="8" letter-spacing="1.4">GITHUB</text>
+  <text x="424" y="91" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="12">@dylanneymarmontalvo2014-lgtm</text>
+
+  <rect x="356" y="121" width="484" height="58" fill="#111111" stroke="#B8B8B8" stroke-opacity="0.18"/>
+  <rect x="356" y="121" width="4" height="58" fill="#8F0008"/>
+  <rect x="374" y="134" width="32" height="32" fill="none" stroke="#B8B8B8" stroke-opacity="0.3"/>
+  <text x="390" y="157" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="18" text-anchor="middle">#</text>
+  <text x="424" y="143" fill="#B8B8B8" font-family="Noto Sans Mono, monospace" font-size="8" letter-spacing="1.4">DISCORD</text>
+  <text x="424" y="164" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="14">dylanneymar25</text>
+
+  <rect x="356" y="194" width="484" height="58" fill="#111111" stroke="#B8B8B8" stroke-opacity="0.18"/>
+  <rect x="356" y="194" width="4" height="58" fill="#E50914" fill-opacity="0.55"/>
+  <rect x="374" y="207" width="32" height="32" fill="none" stroke="#B8B8B8" stroke-opacity="0.3"/>
+  <text x="390" y="229" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="16" text-anchor="middle">@</text>
+  <text x="424" y="216" fill="#B8B8B8" font-family="Noto Sans Mono, monospace" font-size="8" letter-spacing="1.4">EMAIL</text>
+  <text x="424" y="237" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="13">dylanneymarmontalvo2014@gmail.com</text>
+</svg>
