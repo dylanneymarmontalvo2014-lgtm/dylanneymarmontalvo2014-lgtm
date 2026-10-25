@@ -17,6 +17,8 @@
 ## Domain Behavior Guardrails
 1. **[2026-10-25] Keep the GitHub visual identity restrained**
    Do instead: use the supplied black, white, gray, and red palette with consistent geometry and generous negative space.
+2. **[2026-10-25] Treat GitHub activity artwork as dated public data**
+   Do instead: refresh the official profile, repository API, language endpoints, and contribution calendar before exporting activity banners.
 
 ## User Directives
 1. **[2026-10-25] Replace README banner placeholders with finished assets**

@@ -107,11 +107,11 @@ Arduino, electronics and robotics projects.
 
 ## 📊 GitHub Activity
 
-[PLACEHOLDER — GITHUB STATS IMAGE]
+![GitHub activity statistics for dylanneymarmontalvo2014-lgtm](assets/banners/ing-dylan/07-github-stats.png)
 
-[PLACEHOLDER — TOP LANGUAGES IMAGE]
+![Top languages across public owned repositories](assets/banners/ing-dylan/08-top-languages.png)
 
-[PLACEHOLDER — CONTRIBUTION GRAPH]
+![GitHub contribution graph for the last year](assets/banners/ing-dylan/09-contribution-graph.png)
 
 ---
 
