@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="180" viewBox="0 0 1280 180">
+  <image xlink:href="06-github-footer-background.png" width="1280" height="180"/>
+  <rect width="1280" height="180" fill="#080808" fill-opacity="0.42"/>
+  <rect x="52" y="32" width="1176" height="116" fill="none" stroke="#B8B8B8" stroke-opacity="0.14"/>
+  <rect x="80" y="52" width="56" height="3" fill="#E50914"/>
+  <text x="80" y="100" fill="#FFFFFF" font-family="DejaVu Sans, sans-serif" font-size="38" font-weight="700" letter-spacing="2">ING.DYLAN</text>
+  <text x="347" y="96" fill="#B8B8B8" font-family="Noto Sans Mono, monospace" font-size="12" letter-spacing="2.6">BUILD • CREATE • EXPLORE</text>
+  <text x="955" y="96" fill="#FFFFFF" font-family="Noto Sans Mono, monospace" font-size="10" letter-spacing="1.6">SOFTWARE • SYSTEMS • AUTOMATION</text>
+  <rect x="1204" y="91" width="8" height="8" fill="#E50914"/>
+</svg>

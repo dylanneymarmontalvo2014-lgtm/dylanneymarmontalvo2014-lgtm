@@ -1,8 +1,4 @@
-# 👋 Hey, I'm Dylan
-
-### Full-Stack Developer • Linux Enthusiast • Automation • Robotics
-
-> I build software, automation tools, operating-system experiences and digital projects.
+![Ing.Dylan — Full-Stack Developer, Linux, Automation and Robotics](assets/banners/ing-dylan/01-github-header.png)
 
 ---
 
@@ -27,7 +23,7 @@ A Debian-based Linux distribution focused on a **modern, lightweight and coheren
 
 **Technologies:** Debian • KDE Plasma • Qt/QML • Linux
 
-[PLACEHOLDER — DYLANOS BANNER]
+![DylanOS — A Linux ecosystem built for a modern desktop](assets/banners/ing-dylan/02-dylanos.png)
 
 ---
 
@@ -69,7 +65,7 @@ A Debian-based Linux distribution focused on a **modern, lightweight and coheren
 
 Linux distribution and desktop ecosystem.
 
-[PLACEHOLDER — PROJECT IMAGE]
+<img src="assets/banners/ing-dylan/02-dylanos.png" alt="DylanOS project banner" width="100%">
 
 </td>
 
@@ -79,7 +75,7 @@ Linux distribution and desktop ecosystem.
 
 Website and digital presence for DylanOS.
 
-[PLACEHOLDER — PROJECT IMAGE]
+<img src="assets/banners/ing-dylan/03-dylanos-website.png" alt="DylanOS Website project banner" width="100%">
 
 </td>
 </tr>
@@ -91,7 +87,7 @@ Website and digital presence for DylanOS.
 
 Tools, experiments and software projects.
 
-[PLACEHOLDER — PROJECT IMAGE]
+<img src="assets/banners/ing-dylan/04-projects-experiments.png" alt="Projects and Experiments banner" width="100%">
 
 </td>
 
@@ -101,7 +97,7 @@ Tools, experiments and software projects.
 
 Arduino, electronics and robotics projects.
 
-[PLACEHOLDER — PROJECT IMAGE]
+<img src="assets/banners/ing-dylan/05-robotics.png" alt="Robotics project banner" width="100%">
 
 </td>
 </tr>
@@ -168,4 +164,4 @@ Hardware
 
 ---
 
-[PLACEHOLDER — FINAL SIGNATURE / DYLANOS-STYLE FOOTER]
+![ING.DYLAN — Build, Create, Explore](assets/banners/ing-dylan/06-github-footer.png)
