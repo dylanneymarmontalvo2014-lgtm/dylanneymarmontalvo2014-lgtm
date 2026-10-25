@@ -23,3 +23,5 @@
 ## User Directives
 1. **[2026-10-25] Replace README banner placeholders with finished assets**
    Do instead: save final banners in the repository and embed them with stable relative Markdown paths.
+2. **[2026-10-25] Use the official DylanOS logo**
+   Do instead: use the supplied `branding/logo.png` asset rather than drawing or inventing a DylanOS mark.
